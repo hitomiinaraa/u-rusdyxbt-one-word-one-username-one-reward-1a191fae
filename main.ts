@@ -1,3 +1,4 @@
+// Revision pass: one line at the top, the entry untouched below.
 // One Word, One Username, One Reward: the entry is our own make.fun
 // username, exactly one word, nothing else. Writes it to /output/entry.txt
 // with no trailing newline, deterministically, on every run.
